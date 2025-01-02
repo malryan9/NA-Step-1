@@ -1,0 +1,48 @@
+.page {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Title__Step {
+    font-size: 100px;
+    font-family: copperplate, Papyrus, fantasy;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Title__Question {
+    font-size: 60px;
+    font-family: copperplate, Papyrus, fantasy;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.Answer {
+    font-family: copperplate, Papyrus, fantasy;
+    font-size: 20px;
+    color: white;
+    width: 100px;
+    max-width: 100px;
+    line-height: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
