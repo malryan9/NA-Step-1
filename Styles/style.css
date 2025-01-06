@@ -1,48 +1,32 @@
 .page {
     background-color: black;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    padding: 0px 100px;
 }
 
 .Title__Step {
-    font-size: 100px;
-    font-family: copperplate, Papyrus, fantasy;
+    font-size: 150px;
+    font-family: fantasy;
     color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    text-align: center;
+    padding: 100px; 0px;
+    padding-bottom: 160px;
 }
 
 .Title__Question {
-    font-size: 60px;
-    font-family: copperplate, Papyrus, fantasy;
+    font-size: 40px;
+    font-family: bookman;
     color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
+    text-align: center;
+    padding: 10px 100px;
+    line-height: 60px;
+    letter-spacing: 2.5px;
 }
 
 .Answer {
     font-family: copperplate, Papyrus, fantasy;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
-    width: 100px;
-    max-width: 100px;
-    line-height: 10px;
+    line-height: 18px;
+    text-align: center;
+    padding: 30px 150px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
